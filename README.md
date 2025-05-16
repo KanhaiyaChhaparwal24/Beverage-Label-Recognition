@@ -295,3 +295,13 @@ The Cold Drink Detector project has significant potential for expansion and impr
 - Price lookup capabilities based on detected products
 - Inventory counting features for retail applications
 - Customer behavior analysis with detection aggregation
+
+## Contributors
+
+- **Kanhaiya Chhaparwal** - Developer
+
+## Help me Improve
+
+<p> Hello readers, if you find any bugs, please consider raising issue so that I can address them asap and connect with me on
+<a href="mailto:kanhaiyaac24@gmail.com">Email</a> or
+<a href="https://www.linkedin.com/in/kanhaiya-chhaparwal/">Linkedin</a>
