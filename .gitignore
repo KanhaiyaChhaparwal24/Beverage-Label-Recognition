@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Trained models - they are too large for GitHub
+runs/
+*.pt
+!yolov8n.pt  # Keep the base model
+
+# Dataset (too large for GitHub)
+cold drinks.v1i.yolov8/
+# Exclude the entire dataset folder
+
+# Test results
+test_results/
+evaluation_results/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
