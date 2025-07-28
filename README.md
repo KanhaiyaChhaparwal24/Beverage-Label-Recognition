@@ -1,4 +1,4 @@
-# Cold Drink Detector
+# Beverage Label Recognition
 
 A YOLOv8-based application for detecting various cold drinks (bottles and cans) in images using deep learning.
 
